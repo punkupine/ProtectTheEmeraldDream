@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>bgmusic.mp3</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>forest.png</file>
+        <file>night_elf.png</file>
+        <file>wrath.png</file>
+        <file>emeraldDream.jpg</file>
+        <file>imp.png</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>Adventure.ttf</file>
+    </qresource>
+</RCC>
